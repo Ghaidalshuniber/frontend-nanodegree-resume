@@ -25,9 +25,9 @@ h6 {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 35px;
   color: #f5a623;
-  line-height: 48px;
+  line-height: 45px;
   display: inline;
 }
 
@@ -161,6 +161,8 @@ ul {
   padding: 10px;
   width: 200px;
   display: none;
+  margin-left: -7px;
+
 }
 
 img {
@@ -195,6 +197,7 @@ span {
   }
   .biopic {
     width: 150px;
+
   }
   .welcome-message {
     display: none;
